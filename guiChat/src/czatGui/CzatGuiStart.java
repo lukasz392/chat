@@ -25,6 +25,7 @@ public class CzatGuiStart {
 				});
 				frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 				frame.setVisible(true);
+				//add some coments
 			}
 		});
 	}
